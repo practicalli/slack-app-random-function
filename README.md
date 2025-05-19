@@ -28,6 +28,8 @@ Create a Slack account and follow the prompts to create a new workspace, which w
 
 [Create a new Slack app with the Slack UI](https://api.slack.com/apps)
 
+Store Slack API keys and access info in password manager.
+
 Select **From Scratch**
 
 Enter App Name and select the Development Workspace to experiment and build the app. 
